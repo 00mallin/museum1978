@@ -1,0 +1,15 @@
+C:\Users\malte.lindh\Documents\YHC#\museum1978\bin\Debug\net6.0\museum1978.exe
+C:\Users\malte.lindh\Documents\YHC#\museum1978\bin\Debug\net6.0\museum1978.deps.json
+C:\Users\malte.lindh\Documents\YHC#\museum1978\bin\Debug\net6.0\museum1978.runtimeconfig.json
+C:\Users\malte.lindh\Documents\YHC#\museum1978\bin\Debug\net6.0\museum1978.dll
+C:\Users\malte.lindh\Documents\YHC#\museum1978\bin\Debug\net6.0\museum1978.pdb
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\museum1978.csproj.AssemblyReference.cache
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\museum1978.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\museum1978.AssemblyInfoInputs.cache
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\museum1978.AssemblyInfo.cs
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\museum1978.csproj.CoreCompileInputs.cache
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\museum1978.dll
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\refint\museum1978.dll
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\museum1978.pdb
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\museum1978.genruntimeconfig.cache
+C:\Users\malte.lindh\Documents\YHC#\museum1978\obj\Debug\net6.0\ref\museum1978.dll
